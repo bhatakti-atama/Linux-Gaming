@@ -14,8 +14,8 @@
 
 # Linux-Customization
 #### Guides
-1. [Install Gnome Tweaks Tools](hhttps://linuxconfig.org/how-to-install-tweak-tool-on-ubuntu-18-04-bionic-beaver-linux)
-2. [Best Gnome extensions](hhttps://www.ubuntupit.com/19-best-gnome-shell-extensions-ubuntu-gnome-desktop/)
+1. [Install Gnome Tweaks Tools](https://linuxconfig.org/how-to-install-tweak-tool-on-ubuntu-18-04-bionic-beaver-linux)
+2. [Best Gnome extensions](https://www.ubuntupit.com/19-best-gnome-shell-extensions-ubuntu-gnome-desktop/)
 3. [Gnome Extensions (open only in Firefox)](https://extensions.gnome.org/)
 
 
