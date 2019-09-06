@@ -1,6 +1,6 @@
 # Linux-Gaming
-###References and guides related to my talk on Linux gaming
+### References and guides related to my talk on Linux gaming
 
-#### Reefrences
+#### Refrences
 
 
