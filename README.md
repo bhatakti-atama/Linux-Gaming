@@ -18,7 +18,8 @@
 2. [Best Gnome extensions](https://www.ubuntupit.com/19-best-gnome-shell-extensions-ubuntu-gnome-desktop/)
 3. [Gnome Extensions (open only in Firefox)](https://extensions.gnome.org/)
 
-
+# Presentation
+1. presentation is in folder called presentation in this repository. There are 2 files in it one .odp which is for Libre Office and .ppt file for PowerPoint. 
 
 
 
